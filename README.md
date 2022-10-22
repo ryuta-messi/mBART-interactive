@@ -14,8 +14,11 @@ mBARTを英日の言語対でファインチューニングした翻訳モデル
 
 
 デモ動画の3番目の翻訳の例では、
+
 input : 'The motion for summary judgment, filed Thursday in the U.S. District Court for the Southern District of New York by the Electronic Frontier Foundation (EFF) and Durie Tangri LLP, explains that our Controlled Digital Lending (CDL) program is a lawful fair use that preserves traditional library lending in the digital world.
+
 output :  電子フロンティア基金(EFF)とデリー・タンリ LLPが米国南区で提出した「概要判決」は、当社の制御デジタル貸出(CDL)プログラムは、デジタル世界における伝統的な図書館貸出を保護する法的公正な利用であると説明しています。
+
 となっており、一見完璧に訳せているようですが、[Thursday],[New York]の単語の訳抜けが発生してしまっている。
 
 
